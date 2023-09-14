@@ -13,7 +13,7 @@
 }
 
 body.Home{
-	background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url("IMG/apex.jpg");
+	background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url("../IMG/apex.jpg");
 	height: 100vh;
 	background-size: cover;
 	background-position: center;
@@ -23,7 +23,7 @@ body.Home{
 }
 
 body.contacts{
-    background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url("IMG/Deer.jpg");
+    background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url("../IMG/Deer.jpg");
 	height:100vh;
 	background-size: cover;
 	background-position: center;
@@ -241,7 +241,7 @@ p {
 #hero4 {
  
     background-color:#4e2f33;
-    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.7)), url("IMG/jaguar2.png");
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.7)), url("../IMG/jaguar2.png");
 	 
 
     background-size: cover;
@@ -252,7 +252,7 @@ p {
 #hero3 {
  
     background-color:#4e2f33;
-    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.7)), url("IMG/Ocean.jpg");
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.7)), url("../IMG/Ocean.jpg");
 	 
 
     background-size: cover;
